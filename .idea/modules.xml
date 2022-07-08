@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FileIOandStreams/FileIOandStreams.iml" filepath="$PROJECT_DIR$/FileIOandStreams/FileIOandStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntellijWorkSpace.iml" filepath="$PROJECT_DIR$/IntellijWorkSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaOOPpractice/JavaOOPpractice.iml" filepath="$PROJECT_DIR$/JavaOOPpractice/JavaOOPpractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trial&amp;Error/Trial&amp;Error.iml" filepath="$PROJECT_DIR$/Trial&amp;Error/Trial&amp;Error.iml" />
+    </modules>
+  </component>
+</project>
