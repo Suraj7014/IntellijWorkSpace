@@ -26,5 +26,5 @@ public class BubbleSort {
        // for (int i = arr[i]; i < arr.length; i++)
         System.out.println(Arrays.toString(arr));
     }
-
+//program ends
 }
